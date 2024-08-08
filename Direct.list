@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 
+# Plex
+DOMAIN-SUFFIX,plex.direct
+
 # PT
 DOMAIN-SUFFIX,zhuque.in
 DOMAIN-SUFFIX,pttime.org
@@ -14,6 +17,7 @@ DOMAIN-SUFFIX,totheglory.im
 DOMAIN-SUFFIX,ptsbao.club
 DOMAIN-SUFFIX,pterclub.com
 DOMAIN-SUFFIX,pt.soulvoice.club
+DOMAIN-SUFFIX,m-team.io
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,kp.m-team.cc
 DOMAIN-SUFFIX,leaves.red
