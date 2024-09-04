@@ -4,6 +4,8 @@
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,bluetile.biz
 DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,browserleaks.org
+DOMAIN-SUFFIX,browserleaks.net
 
 # plex代理域名
 DOMAIN-SUFFIX,plex.tv
