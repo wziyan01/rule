@@ -3,6 +3,7 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,bluetile.biz
+DOMAIN-SUFFIX,browserleaks.com
 
 # plex代理域名
 DOMAIN-SUFFIX,plex.tv
